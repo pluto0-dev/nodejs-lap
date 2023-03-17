@@ -1,2 +1,2 @@
 # nodejs-lap
-Hello
+Hello,I'm Avocado! in server site.
